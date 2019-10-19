@@ -201,3 +201,7 @@
 100.  [upwork.com](http://upwork.com) — find freelancers and subject experts to work on any kind of project.
 
 101.  [duckduckgo.com](http://duckduckgo.com) – a clean alternative to google search that doesn’t track you on the Internet.
+
+102. [ninite.com](https://ninite.com/) - a website for installing and updating of a bunch of programs at once. Very useful for setting up windows in virtual box environments quickly.
+
+103. [seedr.cc](https://www.seedr.cc) - free seedbox with up to 2 gigs of total storage
