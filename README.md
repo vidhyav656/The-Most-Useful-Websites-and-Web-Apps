@@ -201,3 +201,4 @@
 100.  [upwork.com](http://upwork.com) — find freelancers and subject experts to work on any kind of project.
 
 101.  [duckduckgo.com](http://duckduckgo.com) – a clean alternative to google search that doesn’t track you on the Internet.
+102.  [webdevtrick.com](https://webdevtrick.com) - all your CSS, js, jQuery, PHP trending codes with Source codes in one place. Your handy partner for all types of modern web designs.
