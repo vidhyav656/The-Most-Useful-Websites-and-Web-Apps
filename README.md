@@ -105,3 +105,4 @@
 | [duckduckgo.com](http://duckduckgo.com) | A clean alternative to google search that doesn’t track you on the Internet. |
 | [ninite.com](http://ninite.com) | A website for installing and updating of a bunch of programs at once. Very useful for setting up windows in virtual box environments quickly. |
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
+| [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
