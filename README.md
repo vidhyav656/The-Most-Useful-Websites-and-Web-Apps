@@ -81,6 +81,7 @@
 | [pixton.com](http://pixton.com) | Create your own comic strips with your own characters and move them into any pose. |
 | [designer.io](http://designer.io) | A full-featured vector drawing tool that works everywhere. |
 | [sumopaint.com](http://sumopaint.com) | An excellent layer-based online image editor. |
+| [deerimage.com](https://deerimage.com/) | Free browser-based image tools for compression, conversion, resizing, ID photos, signatures and drawing without sign-up. |
 | [vectr.com](http://vectr.com) | Create vector graphics and export them as SVG or PNG files. |
 | twitterbots | Create your own Twitter bots that can auto-reply, DM, follow people and more. |
 | [headspace.com](http://headspace.com) | Learn the art of meditation and reduce stress, focus more and even sleep better. |
