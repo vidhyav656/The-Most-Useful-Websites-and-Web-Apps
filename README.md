@@ -15,6 +15,7 @@
 | [iconfinder.com](http://iconfinder.com) | Millions of icons for all kinds of projects. Also try icons8.com and flaticon.com. |
 | [jotti.org](http://jotti.org) | Scan any suspicious file or email attachment for viruses. |
 | [wolframalpha.com](http://wolframalpha.com) | Gets answers directly without searching – see more Wolfram tips. |
+| [koveto-vasarlas.hu/tools/follower-growth](https://koveto-vasarlas.hu/tools/follower-growth) | Free Hungarian-language calculator for the net follower growth needed per day and week from a manually entered current count, target, and number of days; no signup or profile lookup. |
 | [flightstats.com](http://flightstats.com) | Track flight status at airports worldwide. |
 | [unsplash.com](http://unsplash.com) | The best place to download images absolutely free. |
 | [videos.pexels.com](http://videos.pexels.com) | An online library of free HD videos you can use everywhere. Also see videvo.net. |
