@@ -108,3 +108,4 @@
 | [ninite.com](http://ninite.com) | A website for installing and updating of a bunch of programs at once. Very useful for setting up windows in virtual box environments quickly. |
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
 | [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
+| [ceramiccoatingshopsnearme.com](https://ceramiccoatingshopsnearme.com/) | Browse an independent US ceramic-coating shop directory and read coating guides; try the Austin shop map with service filters. |
