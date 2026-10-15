@@ -44,6 +44,7 @@
 | [translate.google.com](http://translate.google.com) | Translate web pages, PDFs and Office documents. |
 | [kleki.com](http://kleki.com) | Create paintings and sketches with a wide variety of brushes. |
 | [similarsites.com](http://similarsites.com) | Discover new sites that are similar to what you like already. |
+| [sitepatent.com](https://sitepatent.com/) | Discover newly launched startups, tools and online products, or list your own launch. |
 | [bubbl.us](http://bubbl.us) | Create mind-maps, brainstorm ideas in the browser. |
 | [color.adobe.com](http://color.adobe.com) | Get color ideas, also extract colors from photographs. |
 | [canva.com](http://canva.com) | Make beautiful graphics, presentations, resumes and more with readymade template designs. |
