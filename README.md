@@ -73,6 +73,7 @@
 | [flipanim.com](http://flipanim.com) | Create flipbook animations, includes an onion skin tool to let you see the previous frame as you draw the next one. |
 | [powtoon.com](http://powtoon.com) | Create engaging whiteboard videos and presentations with your own voiceovers. Also see videoscribe.co. |
 | [clyp.it](http://clyp.it) | Record your own voice or upload an audio file without creating any account. Also see soundcloud.com. |
+| [vocalseparator.com](https://vocalseparator.com/) | Separate vocals/instrumental or four WAV stems with an anonymous daily free allowance; optional prepaid minutes. Includes local music practice tools. |
 | [carrd.co](http://carrd.co) | Build one-page fully responsive websites that look good on every screen. |
 | [spark.adobe.com](http://spark.adobe.com) | Make stunning video presentations with voice narration and wow everyone. |
 | [anchor.fm](http://anchor.fm) | The easiest way to record a podcast that you can distribute on iTunes without have to pay for hosting. |
