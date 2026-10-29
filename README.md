@@ -108,3 +108,4 @@
 | [ninite.com](http://ninite.com) | A website for installing and updating of a bunch of programs at once. Very useful for setting up windows in virtual box environments quickly. |
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
 | [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
+| [customspinnerwheel.com](https://customspinnerwheel.com) | Spin a customizable wheel to pick random names, split into teams, or draw giveaway winners. Free, no signup. |
