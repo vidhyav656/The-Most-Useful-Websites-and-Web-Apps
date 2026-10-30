@@ -33,6 +33,7 @@
 | [concreteestimatorhub.com](https://concreteestimatorhub.com/) | Estimate concrete slabs, bags, ready-mix versus bags, driveways, footings, and project costs before buying materials. |
 | [pdfescape.com](http://pdfescape.com) | Lets you quickly edit PDF in the browser without Acrobat. |
 | [draw.io](http://draw.io) | Create diagrams, wireframe and flowcharts in the browser. |
+| [pic2vector.com](https://pic2vector.com/) | Convert PNG, JPG and WebP images to SVG right in your browser, free and without uploading files. |
 | [web.skype.com](http://web.skype.com) | Make voice and video calls in your browser with Skype. |
 | [onlineocr.net](http://onlineocr.net) | Recognize text from scanned PDFs – see other OCR tools. |
 | [wetransfer.com](http://wetransfer.com) | For sharing really big files online. |
