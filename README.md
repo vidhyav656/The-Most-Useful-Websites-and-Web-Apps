@@ -60,6 +60,7 @@
 | [builtwith.com](http://builtwith.com) | Find the web hosting company, email provider and everything else about a website. |
 | [urbandictionary.com](http://urbandictionary.com) | Find definitions of slangs and informal words. |
 | [seatguru.com](http://seatguru.com) | Consult this site before choosing a seat for your next flight. |
+| [Bucketlist.nl Netherlands checklist (Dutch)](https://bucketlist.nl/bucketlist-nederland/checklist) | Free Dutch-language checklist of experience ideas in the Netherlands, readable without an account. |
 | [flightstats.com](http://flightstats.com) | Track flight status at airports worldwide. |
 | [mymaps.google.com](http://mymaps.google.com) | Create custom Google Maps with scribbles, pins and custom shapes. |
 | [snopes.com](http://snopes.com) | Find if that email offer you received is real or just another scam. |
