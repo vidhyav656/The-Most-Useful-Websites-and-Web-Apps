@@ -98,6 +98,7 @@
 | [asciiflow.com](http://asciiflow.com) | A WYSIWYG editor to draw ASCII diagrams that you can embed in emails and tweets. |
 | [buffer.com](http://buffer.com) | The easily way to post and schedule updates on Twitter, Instagram, LinkedIn, Google+ and Facebook. |
 | [10minutemail.com](http://10minutemail.com) | Create disposable email addresses for putting inside sign-up forms. |
+| [tempmailhub.net](https://tempmailhub.net/) | Get a free temporary email address instantly, with a selectable inbox lifetime from 10 minutes to 7 days, no sign-up required. |
 | [whereami](https://www.where-am-i.co/) | Find the postal address of your current location on Google maps. |
 | [sway.com](http://sway.com) | Create and share interactive reports, newsletters, presentations, and for storytelling. |
 | [apify.com](http://apify.com) | The perfect web scraping tool that lets you extract data from nearly any website. |
