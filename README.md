@@ -109,3 +109,4 @@
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
 | [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
 | [omnichordonline](https://www.omnichordonline.com/) | It is an online simulator for the classic instrument **Omnichord OM-27**. |
+| [fictionorder.com](https://fictionorder.com) | Find book series in reading order, publication vs story order. |
