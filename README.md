@@ -69,6 +69,7 @@
 | [talltweets.com](http://talltweets.com) | Turn Google Slides in animated GIF presentations. |
 | [ifttt.com](http://ifttt.com) | Create a connection between all your online accounts. |
 | [namechk.com](http://namechk.com) | Search for your desired username across hundreds of social networks and domain names. |
+| [nameawesome.com](https://nameawesome.com) | Explore U.S. baby name popularity since 1880, along with name meanings, origins, and trends. |
 | [gist.github.com](http://gist.github.com) | Create anonymous and secret text notes and much more. |
 | [flipanim.com](http://flipanim.com) | Create flipbook animations, includes an onion skin tool to let you see the previous frame as you draw the next one. |
 | [powtoon.com](http://powtoon.com) | Create engaging whiteboard videos and presentations with your own voiceovers. Also see videoscribe.co. |
