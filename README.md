@@ -109,3 +109,4 @@
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
 | [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
 | [omnichordonline](https://www.omnichordonline.com/) | It is an online simulator for the classic instrument **Omnichord OM-27**. |
+| [truediscount](https://emirmrkaljevic.github.io/truediscount/) | Free, open-source Firefox add-on and userscript that checks whether an EU shop discount is real against the shop's own 30-day lowest price, with a small local price graph. No account, no tracking. |
