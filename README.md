@@ -21,6 +21,7 @@
 | [everytimezone.com](http://everytimezone.com) | A less confusing view of the world time zones. |
 | [e.ggtimer.com](http://e.ggtimer.com) | A simple online timer for your daily needs. |
 | [random.org](http://random.org) | Pick random numbers, flip coins, and more. |
+| [secretsantagenerator.xyz](https://secretsantagenerator.xyz/) | Draw names for a Secret Santa gift exchange (3 to 200 people) with exclusions and a budget, then share one private link per person or print slips. No sign-up, no emails. |
 | [earn.com](http://earn.com) | Replace your email with a mailbox that pays when you reply to someone’s email. |
 | [myfonts.com/WhatTheFont](http://myfonts.com/WhatTheFont) | Upload an image of any text and quickly determine the font family. |
 | [fonts.google.com](http://fonts.google.com) | The best collection of open source fonts that you can use anywhere without restrictions. |
