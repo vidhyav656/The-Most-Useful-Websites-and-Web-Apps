@@ -84,6 +84,7 @@
 | [vectr.com](http://vectr.com) | Create vector graphics and export them as SVG or PNG files. |
 | twitterbots | Create your own Twitter bots that can auto-reply, DM, follow people and more. |
 | [headspace.com](http://headspace.com) | Learn the art of meditation and reduce stress, focus more and even sleep better. |
+| [运动营养健康指南](https://jiangweiqi001.github.io/sports-nutrition-health/search.html) | Free searchable Chinese-language guide with 465 Q&As on strength training, running, nutrition, and recovery. It prioritizes authoritative guidelines, professional society position statements, and systematic reviews. Each answer shows an evidence grade and references. |
 | [class-central.com](http://class-central.com) | A directory of free online courses offered by universities worldwide. |
 | [googleartproject.com](http://googleartproject.com) | Discover museums, famous paintings and art treasure from all around the world. |
 | [instructables.com](http://instructables.com) | Step-by-step guides on how to build anything and everything. |
