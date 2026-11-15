@@ -109,3 +109,4 @@
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
 | [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
 | [omnichordonline](https://www.omnichordonline.com/) | It is an online simulator for the classic instrument **Omnichord OM-27**. |
+| [everyapp.pro](https://everyapp.pro) | 300+ tools, apps and games in one place: merge and sign PDFs, remove photo backgrounds, make QR codes, track habits and expenses, play Sudoku or chess. Most are free; an optional Pro plan unlocks the rest. |
