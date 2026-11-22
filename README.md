@@ -31,6 +31,7 @@
 | [remotedesktop.google.com](http://remotedesktop.google.com) | Access other computers or allow others to remote access your computer over the Internet. |
 | [homestyler.com](http://homestyler.com) | Design from scratch or re-model your home in 3D. |
 | [concreteestimatorhub.com](https://concreteestimatorhub.com/) | Estimate concrete slabs, bags, ready-mix versus bags, driveways, footings, and project costs before buying materials. |
+| [canlightcalculator.com](https://canlightcalculator.com/) | Free browser calculator for preliminary recessed-light counts, spacing and 2D layouts in rectangular rooms, with PNG/CSV export. Planning estimates, not photometric or electrical design. |
 | [pdfescape.com](http://pdfescape.com) | Lets you quickly edit PDF in the browser without Acrobat. |
 | [draw.io](http://draw.io) | Create diagrams, wireframe and flowcharts in the browser. |
 | [web.skype.com](http://web.skype.com) | Make voice and video calls in your browser with Skype. |
