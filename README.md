@@ -129,6 +129,7 @@
 | [ceramiccoatingshopsnearme.com](https://ceramiccoatingshopsnearme.com/) | Browse an independent US ceramic-coating shop directory and read coating guides; try the Austin shop map with service filters. |
 | [kdpbook.io/kdp/word-search-maker](https://kdpbook.io/kdp/word-search-maker) | Make a printable word search from your own words, with the answer key on the next page. Free and no signup. |
 | [omnichordonline](https://www.omnichordonline.com/) | It is an online simulator for the classic instrument **Omnichord OM-27**. |
+| [truediscount](https://emirmrkaljevic.github.io/truediscount/) | Free, open-source Firefox add-on and userscript that checks whether an EU shop discount is real against the shop's own 30-day lowest price, with a small local price graph. No account, no tracking. |
 | [free-image-to-text.web-free.site](https://free-image-to-text.web-free.site) | Extract text from images and scanned PDF pages with OCR in the browser; files are not uploaded. |
 | [wowcoloring.com](https://wowcoloring.com) | Free printable coloring pages for kids and adults, with 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays. |
 | [fictionorder.com](https://fictionorder.com) | Find book series in reading order, publication vs story order. |
