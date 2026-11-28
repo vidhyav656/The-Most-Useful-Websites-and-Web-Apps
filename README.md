@@ -122,6 +122,7 @@
 | [ninite.com](http://ninite.com) | A website for installing and updating of a bunch of programs at once. Very useful for setting up windows in virtual box environments quickly. |
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
 | [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
+| [webapps.directory](https://webapps.directory) | A curated directory of web apps that run in the browser, including design and dev tools, editors, converters and games. |
 | [customspinnerwheel.com](https://customspinnerwheel.com) | Spin a customizable wheel to pick random names, split into teams, or draw giveaway winners. Free, no signup. |
 | [lemonlawfinder.com](https://lemonlawfinder.com/) | Check for free whether your car counts as a lemon under your US state's lemon law, with plain-English guides to every state's law and a buyback calculator. |
 | [ceramiccoatingshopsnearme.com](https://ceramiccoatingshopsnearme.com/) | Browse an independent US ceramic-coating shop directory and read coating guides; try the Austin shop map with service filters. |
