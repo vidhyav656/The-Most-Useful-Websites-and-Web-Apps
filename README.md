@@ -111,5 +111,6 @@
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
 | [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
 | [omnichordonline](https://www.omnichordonline.com/) | It is an online simulator for the classic instrument **Omnichord OM-27**. |
+| [wowcoloring.com](https://wowcoloring.com) | Free printable coloring pages for kids and adults, with 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays. |
 | [fictionorder.com](https://fictionorder.com) | Find book series in reading order, publication vs story order. |
 | [stagepeek.live](https://stagepeek.live/) | Preview 2D seating charts and interactive 3D concert stage views from any seat across 201 global stadiums, arenas, domes, and theatres without sign-up. |
