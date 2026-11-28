@@ -88,6 +88,7 @@
 | [vectr.com](http://vectr.com) | Create vector graphics and export them as SVG or PNG files. |
 | twitterbots | Create your own Twitter bots that can auto-reply, DM, follow people and more. |
 | [headspace.com](http://headspace.com) | Learn the art of meditation and reduce stress, focus more and even sleep better. |
+| [careclinic.io](https://careclinic.io/) | Log symptoms, medications, mood, sleep, and daily health notes in a browser-based health journal. |
 | [class-central.com](http://class-central.com) | A directory of free online courses offered by universities worldwide. |
 | [Online Lists Maker](https://onlinelistsmaker.com/) | Free online list maker, create and share lists instantly with no signup. |rsities worldwide. |
 | [googleartproject.com](http://googleartproject.com) | Discover museums, famous paintings and art treasure from all around the world. |
