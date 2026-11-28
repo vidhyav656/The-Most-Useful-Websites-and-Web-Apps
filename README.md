@@ -64,6 +64,7 @@
 | [mymaps.google.com](http://mymaps.google.com) | Create custom Google Maps with scribbles, pins and custom shapes. |
 | [snopes.com](http://snopes.com) | Find if that email offer you received is real or just another scam. |
 | [typingweb.com](http://typingweb.com) | Master touch-typing with these practice sessions. |
+| [My Daily puzzle checklist](https://bestdaily.games/my-daily/) | Build a personal checklist of daily browser puzzles and mark what you have played. It saves your routine locally without an account. |
 | [todo.microsoft.com](http://todo.microsoft.com) | A beautiful todo app and task manager. Also see Trello. |
 | [minutes.io](http://minutes.io) | Quickly capture effective notes during meetings. |
 | [talltweets.com](http://talltweets.com) | Turn Google Slides in animated GIF presentations. |
