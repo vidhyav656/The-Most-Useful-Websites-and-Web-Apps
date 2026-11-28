@@ -15,6 +15,7 @@
 | [iconfinder.com](http://iconfinder.com) | Millions of icons for all kinds of projects. Also try icons8.com and flaticon.com. |
 | [jotti.org](http://jotti.org) | Scan any suspicious file or email attachment for viruses. |
 | [wolframalpha.com](http://wolframalpha.com) | Gets answers directly without searching – see more Wolfram tips. |
+| [studyarena.com](https://studyarena.com) | Compare three AI explanations of a study question for free; vote before revealing the model names. |
 | [flightstats.com](http://flightstats.com) | Track flight status at airports worldwide. |
 | [unsplash.com](http://unsplash.com) | The best place to download images absolutely free. |
 | [videos.pexels.com](http://videos.pexels.com) | An online library of free HD videos you can use everywhere. Also see videvo.net. |
