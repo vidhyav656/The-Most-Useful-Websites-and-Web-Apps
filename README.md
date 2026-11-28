@@ -115,6 +115,7 @@
 | [ninite.com](http://ninite.com) | A website for installing and updating of a bunch of programs at once. Very useful for setting up windows in virtual box environments quickly. |
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
 | [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
+| [ceramiccoatingshopsnearme.com](https://ceramiccoatingshopsnearme.com/) | Browse an independent US ceramic-coating shop directory and read coating guides; try the Austin shop map with service filters. |
 | [kdpbook.io/kdp/word-search-maker](https://kdpbook.io/kdp/word-search-maker) | Make a printable word search from your own words, with the answer key on the next page. Free and no signup. |
 | [omnichordonline](https://www.omnichordonline.com/) | It is an online simulator for the classic instrument **Omnichord OM-27**. |
 | [wowcoloring.com](https://wowcoloring.com) | Free printable coloring pages for kids and adults, with 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays. |
