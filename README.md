@@ -131,6 +131,7 @@
 | [ceramiccoatingshopsnearme.com](https://ceramiccoatingshopsnearme.com/) | Browse an independent US ceramic-coating shop directory and read coating guides; try the Austin shop map with service filters. |
 | [kdpbook.io/kdp/word-search-maker](https://kdpbook.io/kdp/word-search-maker) | Make a printable word search from your own words, with the answer key on the next page. Free and no signup. |
 | [omnichordonline](https://www.omnichordonline.com/) | It is an online simulator for the classic instrument **Omnichord OM-27**. |
+| [calnex.pro](https://calnex.pro) | 217 free online calculators and unit converters in 12 languages: unit conversion, BMI, loans, currency and physics formulas, all running in the browser with no sign-up. |
 | [icodelab.dev](https://icodelab.dev/en/tools) | Browser tools for everyday work: merge, split and compress PDFs, compress images, make QR codes, extract text from photos, plus regex, cron and Unix timestamp helpers for developers. No sign-up. |
 | [nostairsplease.com](https://nostairsplease.com/) | Free directory of verified ground-floor and elevator-access live music venues across North America. |
 | [everyapp.pro](https://everyapp.pro) | 300+ tools, apps and games in one place: merge and sign PDFs, remove photo backgrounds, make QR codes, track habits and expenses, play Sudoku or chess. Most are free; an optional Pro plan unlocks the rest. |
