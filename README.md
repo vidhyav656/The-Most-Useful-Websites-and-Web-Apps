@@ -94,6 +94,7 @@
 | [vectr.com](http://vectr.com) | Create vector graphics and export them as SVG or PNG files. |
 | twitterbots | Create your own Twitter bots that can auto-reply, DM, follow people and more. |
 | [headspace.com](http://headspace.com) | Learn the art of meditation and reduce stress, focus more and even sleep better. |
+| [运动营养健康指南](https://jiangweiqi001.github.io/sports-nutrition-health/search.html) | Free searchable Chinese-language guide with 465 Q&As on strength training, running, nutrition, and recovery. It prioritizes authoritative guidelines, professional society position statements, and systematic reviews. Each answer shows an evidence grade and references. |
 | [iqmaxxing.org](https://iqmaxxing.org/) | Free working-memory training in the browser with no account: dual and quad n-back, span tasks, reaction time and Stroop, with every run charted. |
 | [careclinic.io](https://careclinic.io/) | Log symptoms, medications, mood, sleep, and daily health notes in a browser-based health journal. |
 | [class-central.com](http://class-central.com) | A directory of free online courses offered by universities worldwide. |
