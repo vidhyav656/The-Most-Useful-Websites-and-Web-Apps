@@ -15,6 +15,7 @@
 | [iconfinder.com](http://iconfinder.com) | Millions of icons for all kinds of projects. Also try icons8.com and flaticon.com. |
 | [jotti.org](http://jotti.org) | Scan any suspicious file or email attachment for viruses. |
 | [wolframalpha.com](http://wolframalpha.com) | Gets answers directly without searching – see more Wolfram tips. |
+| [studyarena.com](https://studyarena.com) | Compare three AI explanations of a study question for free; vote before revealing the model names. |
 | [flightstats.com](http://flightstats.com) | Track flight status at airports worldwide. |
 | [unsplash.com](http://unsplash.com) | The best place to download images absolutely free. |
 | [videos.pexels.com](http://videos.pexels.com) | An online library of free HD videos you can use everywhere. Also see videvo.net. |
@@ -31,6 +32,8 @@
 | [remotedesktop.google.com](http://remotedesktop.google.com) | Access other computers or allow others to remote access your computer over the Internet. |
 | [homestyler.com](http://homestyler.com) | Design from scratch or re-model your home in 3D. |
 | [concreteestimatorhub.com](https://concreteestimatorhub.com/) | Estimate concrete slabs, bags, ready-mix versus bags, driveways, footings, and project costs before buying materials. |
+| [Mini Golf Cost Calculator](https://minigolfspots.com/mini-golf-cost-calculator) | Estimate mini golf rounds, parties and group outing costs from entered prices, fees, taxes, gratuity and deposits; displays USD, works without an account and does not supply live venue prices. |
+| [calculatorcampus.com](https://www.calculatorcampus.com/) | Practical online calculators with formulas, assumptions, worked examples, and named sources. |
 | [pdfescape.com](http://pdfescape.com) | Lets you quickly edit PDF in the browser without Acrobat. |
 | [draw.io](http://draw.io) | Create diagrams, wireframe and flowcharts in the browser. |
 | [web.skype.com](http://web.skype.com) | Make voice and video calls in your browser with Skype. |
@@ -64,15 +67,18 @@
 | [mymaps.google.com](http://mymaps.google.com) | Create custom Google Maps with scribbles, pins and custom shapes. |
 | [snopes.com](http://snopes.com) | Find if that email offer you received is real or just another scam. |
 | [typingweb.com](http://typingweb.com) | Master touch-typing with these practice sessions. |
+| [My Daily puzzle checklist](https://bestdaily.games/my-daily/) | Build a personal checklist of daily browser puzzles and mark what you have played. It saves your routine locally without an account. |
 | [todo.microsoft.com](http://todo.microsoft.com) | A beautiful todo app and task manager. Also see Trello. |
 | [minutes.io](http://minutes.io) | Quickly capture effective notes during meetings. |
 | [talltweets.com](http://talltweets.com) | Turn Google Slides in animated GIF presentations. |
 | [ifttt.com](http://ifttt.com) | Create a connection between all your online accounts. |
 | [namechk.com](http://namechk.com) | Search for your desired username across hundreds of social networks and domain names. |
+| [nameawesome.com](https://nameawesome.com) | Explore U.S. baby name popularity since 1880, along with name meanings, origins, and trends. |
 | [gist.github.com](http://gist.github.com) | Create anonymous and secret text notes and much more. |
 | [flipanim.com](http://flipanim.com) | Create flipbook animations, includes an onion skin tool to let you see the previous frame as you draw the next one. |
 | [powtoon.com](http://powtoon.com) | Create engaging whiteboard videos and presentations with your own voiceovers. Also see videoscribe.co. |
 | [clyp.it](http://clyp.it) | Record your own voice or upload an audio file without creating any account. Also see soundcloud.com. |
+| [vocalseparator.com](https://vocalseparator.com/) | Separate vocals/instrumental or four WAV stems with an anonymous daily free allowance; optional prepaid minutes. Includes local music practice tools. |
 | [carrd.co](http://carrd.co) | Build one-page fully responsive websites that look good on every screen. |
 | [spark.adobe.com](http://spark.adobe.com) | Make stunning video presentations with voice narration and wow everyone. |
 | [anchor.fm](http://anchor.fm) | The easiest way to record a podcast that you can distribute on iTunes without have to pay for hosting. |
@@ -81,10 +87,14 @@
 | [pixton.com](http://pixton.com) | Create your own comic strips with your own characters and move them into any pose. |
 | [designer.io](http://designer.io) | A full-featured vector drawing tool that works everywhere. |
 | [sumopaint.com](http://sumopaint.com) | An excellent layer-based online image editor. |
+| [deerimage.com](https://deerimage.com/) | Free browser-based image tools for compression, conversion, resizing, ID photos, signatures and drawing without sign-up. |
 | [vectr.com](http://vectr.com) | Create vector graphics and export them as SVG or PNG files. |
 | twitterbots | Create your own Twitter bots that can auto-reply, DM, follow people and more. |
 | [headspace.com](http://headspace.com) | Learn the art of meditation and reduce stress, focus more and even sleep better. |
+| [iqmaxxing.org](https://iqmaxxing.org/) | Free working-memory training in the browser with no account: dual and quad n-back, span tasks, reaction time and Stroop, with every run charted. |
+| [careclinic.io](https://careclinic.io/) | Log symptoms, medications, mood, sleep, and daily health notes in a browser-based health journal. |
 | [class-central.com](http://class-central.com) | A directory of free online courses offered by universities worldwide. |
+| [Online Lists Maker](https://onlinelistsmaker.com/) | Free online list maker, create and share lists instantly with no signup. |rsities worldwide. |
 | [googleartproject.com](http://googleartproject.com) | Discover museums, famous paintings and art treasure from all around the world. |
 | [instructables.com](http://instructables.com) | Step-by-step guides on how to build anything and everything. |
 | [flowgram.com](http://flowgram.com) | Make data-driven graphics, charts and infographics. Also see adioma.com and eas.ly. |
@@ -109,3 +119,9 @@
 | [seedr.cc](http://seedr.cc) | Free seedbox with up to 2 gigs of total storage. |
 | [weboas.is](https://weboas.is/) | All-in-One Web Portal For Internet & Tech Enthusiasts Who Love Exploring & Learning About The Digital Underground. |
 | [lemonlawfinder.com](https://lemonlawfinder.com/) | Check for free whether your car counts as a lemon under your US state's lemon law, with plain-English guides to every state's law and a buyback calculator. |
+| [ceramiccoatingshopsnearme.com](https://ceramiccoatingshopsnearme.com/) | Browse an independent US ceramic-coating shop directory and read coating guides; try the Austin shop map with service filters. |
+| [kdpbook.io/kdp/word-search-maker](https://kdpbook.io/kdp/word-search-maker) | Make a printable word search from your own words, with the answer key on the next page. Free and no signup. |
+| [omnichordonline](https://www.omnichordonline.com/) | It is an online simulator for the classic instrument **Omnichord OM-27**. |
+| [wowcoloring.com](https://wowcoloring.com) | Free printable coloring pages for kids and adults, with 2,000+ PDF sheets across 50+ themes like animals, mandalas, and holidays. |
+| [fictionorder.com](https://fictionorder.com) | Find book series in reading order, publication vs story order. |
+| [stagepeek.live](https://stagepeek.live/) | Preview 2D seating charts and interactive 3D concert stage views from any seat across 201 global stadiums, arenas, domes, and theatres without sign-up. |
